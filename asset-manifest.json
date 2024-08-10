@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lluck2021/cust-dash-react.git/static/css/main.654e8eb9.css",
-    "main.js": "/lluck2021/cust-dash-react.git/static/js/main.cb7aa7f3.js",
-    "index.html": "/lluck2021/cust-dash-react.git/index.html",
-    "main.654e8eb9.css.map": "/lluck2021/cust-dash-react.git/static/css/main.654e8eb9.css.map",
-    "main.cb7aa7f3.js.map": "/lluck2021/cust-dash-react.git/static/js/main.cb7aa7f3.js.map"
+    "main.css": "/cust-dash-react/static/css/main.654e8eb9.css",
+    "main.js": "/cust-dash-react/static/js/main.cb7aa7f3.js",
+    "index.html": "/cust-dash-react/index.html",
+    "main.654e8eb9.css.map": "/cust-dash-react/static/css/main.654e8eb9.css.map",
+    "main.cb7aa7f3.js.map": "/cust-dash-react/static/js/main.cb7aa7f3.js.map"
   },
   "entrypoints": [
     "static/css/main.654e8eb9.css",
